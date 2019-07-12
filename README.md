@@ -17,7 +17,8 @@
   mkdir src
 ```
 
-如果我已经创建完毕，则不必再创建。
+If I have made those directories, you needn't make them again and just keep
+your project hierarchy consistent with me.
 
 2. 将需要token化的所有c文件放在**/working_directory/sa-train-1000/src**文件夹下。
   
