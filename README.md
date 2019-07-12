@@ -29,7 +29,7 @@ your project hierarchy consistent with me.
    ```
 
    ```shell
-   ./sa_gen_tokens.sh /working_directory/sa-train-1000/
+   ./sa_gen_tokens.sh working_directory/sa-train-1000/
    ```
 
 # 结果
