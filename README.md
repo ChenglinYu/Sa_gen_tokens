@@ -63,6 +63,8 @@ int main()                    // Tag.OTHER
 
 对应的token文件**0a5ca1430d.c.tok**如下：
 
+**NOTE: tokenize的过程中忽略了第一行**
+
 ```json
 {
     "filename": "/mnt/data/src/0a5ca1430d.c",
@@ -651,5 +653,5 @@ int main()                    // Tag.OTHER
 
 ```
 
-tokenize的过程中**忽略了第一行**。
+
 
