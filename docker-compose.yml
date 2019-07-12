@@ -1,0 +1,8 @@
+version: '3'
+services:
+  # This container tokenizes the testcase files.
+  tokenize:
+    build: ./tokenizer
+    volumes:
+      - "${DATA_DIR}:/mnt/data"
+
