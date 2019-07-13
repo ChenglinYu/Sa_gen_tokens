@@ -653,5 +653,13 @@ int main()                    // Tag.OTHER
 
 ```
 
+tok文件是个json文件，其中，键包括：
 
+- filename, 
+
+- tokens,
+  - kind,
+  - line,
+  - sem
+  - text
 
