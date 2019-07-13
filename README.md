@@ -63,7 +63,7 @@ int main()                    // Tag.OTHER
 
 对应的token文件**0a5ca1430d.c.tok**如下：
 
-**NOTE: tokenize的过程中忽略了第一行**
+**NOTE: tokenize过程忽略了#include <stdlib.h>行，忽略了所有的注释**
 
 ```json
 {
